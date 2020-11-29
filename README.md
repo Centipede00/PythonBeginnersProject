@@ -9,3 +9,11 @@ Password Generator generates a password for you containing alphabets, numbers an
 2nd Project-
 
 Guess the Number game generates a random integer in a gv=iven range and lets you guess it within specified number of chances. It displays the output as per your guess specifying if it is too low or too high or close enough.
+
+3rd Project-
+
+A simple and classic Rock Paper Scissors game (without GUI).
+
+4th Project-
+
+Printing and displaying all kinds of sine and cosine curves using matplotlib library.
